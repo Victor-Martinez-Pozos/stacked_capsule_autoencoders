@@ -1,7 +1,7 @@
 
 # Stacked Capsule Autoencoders
 
-This is an official Tensorflow implementation of the Stacked Capsule Autoencoder (SCAE), which was introduced in the in the following paper:
+This is the official Tensorflow implementation of the Stacked Capsule Autoencoder (SCAE) forked from their repo, which was introduced in the in the following paper:
 [A. R. Kosiorek](http://akosiorek.github.io/), [Sara Sabour](https://ca.linkedin.com/in/sara-sabour-63019132), [Y. W. Teh](https://www.stats.ox.ac.uk/~teh/), and [Geoffrey E. Hinton](https://vectorinstitute.ai/team/geoffrey-hinton/), ["Stacked Capsule Autoencoders"](https://arxiv.org/abs/1906.06818).
 
   * **Author**: Adam R. Kosiorek, Oxford Robotics Institute & Department of Statistics, University of Oxford
